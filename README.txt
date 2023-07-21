@@ -6,7 +6,8 @@ What you're looking at is a shiny app doing a quick exploration of bank churn da
 The bank data was found on Kaggle and was created by Bhuvi Ranga. The file and supporting document can be found at the website below:
 https://www.kaggle.com/datasets/bhuviranga/customer-churn-data
 
-You will find 3 files in this repository:
+You will find 4 files in this repository:
+-This README
 -A copy of the bank churn data from Kaggle, downloaded July 21, 2023
--the server.R file for running the shiny app
--the ui.R file for the user interface of the shiny app
+-The server.R file for running the shiny app
+-The ui.R file for the user interface of the shiny app
